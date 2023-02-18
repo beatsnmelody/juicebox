@@ -2,7 +2,6 @@
 const {
   client,
   createPost,
-  createTags,
   getAllUsers, // new
   createUser,
   updateUser
